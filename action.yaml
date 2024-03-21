@@ -1,4 +1,4 @@
-name: kubectl-cli
+name: kubectl-ag-eks
 description: "'kubectl' for eks"
 author: 'Rokhun Jung'
 branding:
